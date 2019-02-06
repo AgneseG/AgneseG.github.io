@@ -15,16 +15,12 @@ footer: Portfolio data Science
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
   - title: facebook
-    url:
+    url: https://www.facebook.com/agnese.giacomello
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://stackoverflow.com/users/10363916/agnese-giacomello
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/AgneseG
 
 # Build settings
 markdown: kramdown
