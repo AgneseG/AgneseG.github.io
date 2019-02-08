@@ -57,6 +57,10 @@ a:focus {
     color: #11505d;
 }
 
+.spacer {
+  height: 10px;
+} 
+
 .light {
     font-weight: 400;
 }
