@@ -378,13 +378,13 @@ body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
 }
 
-div.container1 {
+div.cont1 {
   width: 45%;
   float:left;
   border: 1px solid black;
 }
 
-div.container {
+div.cont {
   width: 45%;
   float:right;
   border: 1px solid black;
