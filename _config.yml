@@ -2,7 +2,7 @@
 title: Agnese Giacomello
 email: agnese.giacomello@hotmail.it
 url: https://AgneseG.github.io
-description: “As I see it, statistics is the logical way to understand reality. I have always been fascinated by the world of numbers and modelling and by how this can shape the world we are surrounded by”
+description: “As I see it, statistics is the logical way to understand reality. I have always been fascinated by the world of numbers and modelling and by how this can shape the reality we are surrounded by”
 
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -15,14 +15,12 @@ footer: Agnese Giacomello
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: facebook
-    url: https://www.facebook.com/agnese.giacomello
+  - title: linkedin
+    url: https://linkedin.com/in/agnese-giacomello
   - title: stack-overflow
     url: https://stackoverflow.com/users/10363916/agnese-giacomello
   - title: github
     url: https://github.com/AgneseG
-  - title: linkedin
-    url: https://linkedin.com/in/agnese-giacomello
 
 # Build settings
 markdown: kramdown
