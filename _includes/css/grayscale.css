@@ -90,7 +90,7 @@ a:focus {
 }
 
 .navbar-custom .navbar-brand .navbar-toggle {
-    padding: 1px 1px;
+    padding: 4px 6px;
     font-size: 16px;
     color: #fff;
 }
@@ -124,7 +124,7 @@ a:focus {
 
 @media(min-width:767px) {
     .navbar {
-        padding: 0px 0;
+        padding: 20px 0;
         border-bottom: 0;
         letter-spacing: 1px;
         background: 0 0;
@@ -278,7 +278,7 @@ a:focus {
 
 .gallery-section {
     width: 100%;
-    padding: 20px 0;
+    padding: 50px 0;
     color: #fff;
     background-color: {{ site.color.primary-dark }};
     -webkit-background-size: cover;
