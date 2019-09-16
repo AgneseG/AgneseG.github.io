@@ -394,7 +394,9 @@ body {
 }
 .alignleft {
 	float: left;
+	font-size: 15px;
 }
 .alignright {
 	float: right;
+	font-size: 15px;
 }
